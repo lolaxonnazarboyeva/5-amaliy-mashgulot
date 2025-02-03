@@ -1,0 +1,14 @@
+.card {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 300%;
+    width: 100vh;
+    margin: 20px auto;
+    padding: 10px;
+}
+/*.card {*/
+/*    font-weight: bold*/
+/*}*/
+.card:hover{
+    box-shadow: 0 0 20px rgba(0 0 0 0.8);
+    transform: scale(1.1);
+}

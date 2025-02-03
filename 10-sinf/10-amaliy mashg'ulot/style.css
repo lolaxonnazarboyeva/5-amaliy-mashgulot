@@ -1,0 +1,43 @@
+body{
+   background-image:url("../25-amaliy mashg'ulot/j.pg.jpg") ;
+    background-repeat: no-repeat;
+}
+div {
+    display: flex;
+   }
+.box1 {
+     font-size: 40px;
+     margin: 20px auto;
+     padding: 30px;
+     background-color: antiquewhite;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);ox-sh
+     transition: box-shadow 1s ease, traansform 1s;
+}
+.box1:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+    transform: scale(1.1);
+}
+.box2 {
+    font-size: 40px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: antiquewhite;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: box-shadow 1s ease, traansform 1s;
+}
+.box2:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+    transform: scale(1.1);
+}
+.box3 {
+    font-size: 40px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: antiquewhite;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: box-shadow 1s ease, traansform 1s;
+}
+.box3:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+    transform: scale(1.1);
+}

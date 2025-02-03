@@ -1,0 +1,15 @@
+body{
+    background-image: url("harry.jpg");
+    background-repeat: no-repeat;
+}
+
+p {
+    font-size: 37px;
+    font-weight: bold;
+    color: white;
+    font-family: "Goudy Stout";
+    text-align: center;
+    background-color: black;
+    border-radius: 8px;
+
+}

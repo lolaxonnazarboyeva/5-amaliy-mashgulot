@@ -1,0 +1,25 @@
+body{
+    background-image: url(harry.jpg);
+    background-repeat: no-repeat;
+}
+p{
+    border: 1px solid #fa1010;
+    background-color: #f0f0f0;
+    padding: 60px 20px 60px 0px;
+    margin: 10px;
+    font-size: 50px;
+}
+div {
+    margin: 80px;
+}
+span1{
+    color: aqua;
+    font-family: bold;
+    border-radius: 10px;
+
+}
+span2{
+    color:#33b40f ;
+    border-radius: 30px ;
+    font-family: ;
+}

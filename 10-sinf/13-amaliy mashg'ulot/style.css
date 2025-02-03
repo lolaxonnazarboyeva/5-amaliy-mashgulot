@@ -1,0 +1,17 @@
+/*div {*/
+    /*margin: 80px;*/
+}
+.card {
+/*    border: 1px solid #ccc;*/
+/*    border-radius: 5px;*/
+/*    padding: 60px 20px 60px 0px;*/
+/*    margin: 10px;*/
+/*    width:200px; !* yoki istalgan o'lcham *!*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: box-shadow 1s ease, transform 1s ;
+}
+.card:hover{
+    box-shadow: 0 0 20px rgba(0 0 0 0.8);
+    transform: scale(1.1);
+
+}

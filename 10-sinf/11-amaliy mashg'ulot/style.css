@@ -1,0 +1,44 @@
+body {
+    background-image: url(../21-amaliy mashg'ulot/j.pg.jpg);
+    background-repeat: no-repeat;
+.menu {
+    padding: 20px;
+    margin: 20px auto;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    font-family: "Felix Titling";
+    border-radius: 8px;
+}
+.menu li{
+    margin: 15px;
+    padding: 10px 5px 10px 5px;
+    font-size: 32px;
+    background-color: #fffff1;
+    border-radius: 10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.5) ;
+    transition: box-shadow 1s ease transform 1s;
+}
+.menu li:hover {
+        box-shadow:0 0 20px rgba(0,0,0,0.8);
+        transform: scale(1.1);
+}
+
+.Kino{
+    width: 200px;
+    justify-content: flex-start ;
+    text-align: 200px;
+}
+.serial{
+    width: 200px;
+    justify-content: flex-start ;
+    text-align: 200px;
+
+}
+.multfilm {
+    width: 200px;
+    justify-content: flex-end;
+    text-align: 200px;
+
+}
